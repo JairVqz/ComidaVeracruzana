@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Comida Veracruzana</string>
+
+    <string name="activity_login_name">Iniciar Sesión</string>
+    <string name="activity_create_account_name">Crear Cuenta</string>
+    <string name="activity_agregar_receta_name">Añadir Receta</string>
+    <string name="activity_buscar_receta_name">Buscar Receta</string>
+    <string name="activiyy_sugerir_receta_name">Sugerir Receta</string>
+    <string name="activity_visualizar_lista_recetas_name">Visualizar Recetas</string>
+    <string name="activity_visualizar_sugerencias_name">Sugerencias de Usuarios</string>
+
+    <!-- Activity Administrador -->
+    <string name="button_cerrar_sesion_admin">Cerrar Sesión</string>
+
+    <!-- Activity Cocinero -->
+    <string name="button_cerrar_sesion">Cerrar Sesión</string>
+
+    <!-- Activity Crear Cuenta -->
+    <string name="titulo_crear_cuenta">Ingresa los siguientes datos</string>
+    <string name="button_createaccount_name">Crear Cuenta</string>
+
+    <!-- Activity Login -->
+    <string name="campo_usuario">Usuario</string>
+    <string name="campo_correo">Correo</string>
+    <string name="campo_password">Contraseña</string>
+    <string name="campo_validar_password">Ingresa nuevamente tu contraseña</string>
+    <string name="titulo_login">Iniciar Sesión</string>
+    <string name="button_login_name">Entrar</string>
+
+    <!-- Activity Main -->
+    <string name="titulo_ventana_main">El sabor de Veracruz</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601405836308",
+    "firebase_url": "https://comidaveracruzana-3ad51-default-rtdb.firebaseio.com",
+    "project_id": "comidaveracruzana-3ad51",
+    "storage_bucket": "comidaveracruzana-3ad51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601405836308:android:e47a5d553b5fcf4525eb01",
+        "android_client_info": {
+          "package_name": "com.example.comidaveracruzana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601405836308-jtch9hs9eonoeile2p2fbm4n3mgmtdsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZB8Mg4v5IfAl4ybX1MloZRJ5_7Pv0npQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601405836308-jtch9hs9eonoeile2p2fbm4n3mgmtdsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
