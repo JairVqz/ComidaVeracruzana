@@ -8,6 +8,24 @@
         <entry key="..\:/Users/jair1/AndroidStudioProjects/ComidaVeracruzana/app/src/main/res/layout/activity_crear_cuenta.xml" value="0.264" />
         <entry key="..\:/Users/jair1/AndroidStudioProjects/ComidaVeracruzana/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/jair1/AndroidStudioProjects/ComidaVeracruzana/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/ic_baseline_description_24.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_baseline_insert_comment_24.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.263" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.263" />
+        <entry key="app/src/main/res/layout/activity_administracion.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_administrador.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_buscar_adm.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_buscar_cocinero.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_cerrar_adm.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_cerrar_cocinero.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_cocinero.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_inicio_adm.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_inicio_cocinero.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_sugerencia_adm.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_sugerencia_cocinero.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/menu/menu_adm.xml" value="0.2578125" />
+        <entry key="app/src/main/res/menu/menu_cocinero.xml" value="0.2578125" />
       </map>
     </option>
   </component>

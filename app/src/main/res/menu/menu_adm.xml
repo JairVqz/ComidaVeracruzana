@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicioAdm"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Inicio"
+
+        />
+
+    <item
+        android:id="@+id/buscarAdm"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Buscar"
+        />
+
+    <item
+        android:id="@+id/administrarAdm"
+        android:icon="@drawable/ic_baseline_description_24"
+        android:title="Administrar"
+        />
+
+    <item
+        android:id="@+id/sugerenciaAdm"
+        android:icon="@drawable/ic_baseline_insert_comment_24"
+        android:title="Sugerencias"
+        />
+
+    <item
+        android:id="@+id/cerrarAdm"
+        android:icon="@drawable/ic_baseline_lock_24"
+        android:title="Cerrar sesión"
+        />
+</menu>

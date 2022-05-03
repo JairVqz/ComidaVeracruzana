@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.comidaveracruzana">
 
-    android:usesCleartextTraffic="true"
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,6 +9,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Tema.ComidaVeracruzana">
+        <activity
+            android:name=".InicioAdm"
+            android:exported="false" />
+        <activity
+            android:name=".CerrarAdm"
+            android:exported="false" />
+        <activity
+            android:name=".SugerenciaAdm"
+            android:exported="false" />
+        <activity
+            android:name=".Administracion"
+            android:exported="false" />
+        <activity
+            android:name=".BuscarAdm"
+            android:exported="false" />
+        <activity
+            android:name=".CerrarCocinero"
+            android:exported="false" />
+        <activity
+            android:name=".SugerenciaCocinero"
+            android:exported="false" />
+        <activity
+            android:name=".BuscarCocinero"
+            android:exported="false" />
+        <activity
+            android:name=".InicioCocinero"
+            android:exported="false" />
         <activity
             android:name=".ActivityCocinero"
             android:exported="false" />
